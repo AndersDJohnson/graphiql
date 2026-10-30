@@ -50,7 +50,7 @@
     "graphql-language-service": "^3.1.2",
     "i18next": "^19.4.4",
     "i18next-browser-languagedetector": "^4.1.1",
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^14.3.3",
     "monaco-editor": "^0.20.0",
     "monaco-graphql": "^0.4.2",
     "react-i18next": "^11.4.0",
@@ -105,7 +105,7 @@
     "webpack": "4.42.1",
     "webpack-bundle-analyzer": "^3.6.1",
     "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^3.10.3",
+    "webpack-dev-server": "^5.2.6",
     "worker-loader": "^2.0.0"
   }
 }
